@@ -3,3 +3,18 @@ h1 {
   color: red;
   text-align: center;
 }
+
+.rectangle-container {
+  background-color: aqua;
+  height: fit-content;
+  width: 80%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5%;
+}
+
+.scroll-container {
+  background-color: rgb(145, 240, 240);
+  overflow-y: scroll;
+  height: 120px;
+}
