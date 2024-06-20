@@ -11,10 +11,15 @@ h1 {
   margin: 0 auto;
   padding: 10px;
   border-radius: 5%;
+  margin-block-end: 40px;
 }
 
 .scroll-container {
   background-color: rgb(145, 240, 240);
   overflow-y: scroll;
   height: 120px;
+}
+
+.img-1{
+  width: 340px;
 }
