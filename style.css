@@ -23,3 +23,19 @@ h1 {
 .img-1{
   width: 340px;
 }
+
+.img-2 {
+  width: 100px;
+}
+
+.li-image {
+  list-style: none;
+  text-align: center;
+  border: 1px black solid;
+  border-radius: 30px;
+  margin-block-end: 30px;
+  background-color: azure;
+  width: 69%;
+  margin-left: auto;
+  margin-right: auto;
+}
